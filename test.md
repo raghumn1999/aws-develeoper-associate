@@ -7,4 +7,4 @@
 
     It is look like https://raghu-v10.signin.aws.amazon.com/console 
 
-![IAM] ./images/IAM.png
+![IAM](./images/IAM.png)
